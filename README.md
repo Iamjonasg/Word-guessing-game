@@ -1,2 +1,2 @@
 # Word-guessing-game
-A game to guess words.
+A game to guess words!
